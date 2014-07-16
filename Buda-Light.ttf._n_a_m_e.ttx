@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0">
+      Copyright (c) 2010, Adele Antignac (a.antignac@hotmail.fr). All rights reserved. Licenced under SIL OFL vl.1
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
+      Buda
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0">
+      light
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
+      Fontforge : Buda : 13-12-201&#163;0
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
+      Buda
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
+      Version 1.002 
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
+      Buda
+    </namerecord>
+    <namerecord nameID="14" platformID="1" platEncID="0" langID="0x0">
+      http://scripts.sil.org/OFL
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Copyright (c) 2010, Adele Antignac (a.antignac@hotmail.fr). All rights reserved. Licenced under SIL OFL vl.1
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Buda
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      light
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      Fontforge : Buda : 13-12-201&#163;0
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Buda
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 1.002 
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      Buda
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      http://scripts.sil.org/OFL
+    </namerecord>
+  </name>
+
+</ttFont>
