@@ -1,0 +1,32 @@
+{
+  "name": "Buda",
+  "designer": "Adèle Antignac",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 53743,
+  "fonts": [
+    {
+      "name": "UNKNOWN",
+      "style": "normal",
+      "weight": 500,
+      "filename": "Buda-Light-TTF.ttf",
+      "postScriptName": "Buda",
+      "fullName": "Buda",
+      "copyright": "Copyright (c) 2010, Adele Antignac (a.antignac@hotmail.fr). All rights reserved. Licenced under SIL OFL vl.1"
+    },
+    {
+      "name": "UNKNOWN",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Buda-light.ttf",
+      "postScriptName": "Buda",
+      "fullName": "Buda",
+      "copyright": "Copyright (c) 2010, Adele Antignac (a.antignac@hotmail.fr). All rights reserved. Licenced under SIL OFL vl.1"
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2010-12-20"
+}
